@@ -1,0 +1,2 @@
+class ConnectorController < ApplicationController
+end
